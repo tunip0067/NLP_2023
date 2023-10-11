@@ -24,5 +24,5 @@
 |:--:|:--:|:--:|
 |1| Code Cells ❤️ |[variable, assign](https://github.com/tunip0067/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|
 |2| Five Types of Data ❤️ |[number,string,list,tuple,dictionary](https://github.com/tunip0067/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
-|3| Indexing & Slicing ❤️ |[number,string,list,tuple,dictionary](https://github.com/tunip0067/NLP_2023/blob/main/3_Indexing_Slicing.ipynb)|
-|4| Statements ❤️ |[number,string,list,tuple,dictionary](https://github.com/tunip0067/NLP_2023/blob/main/4_1_IfStatement.ipynb)|
+|3| Indexing & Slicing ❤️ |[:,forward,backward,link +,repeat *,length len()](https://github.com/tunip0067/NLP_2023/blob/main/3_Indexing_Slicing.ipynb)|
+|4| Statements ❤️ |[if~:,for~:,try~:,while~:](https://github.com/tunip0067/NLP_2023/blob/main/4_1_IfStatement.ipynb)|
