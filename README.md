@@ -26,3 +26,5 @@
 |2| Five Types of Data ❤️ |[number,string,list,tuple,dictionary](https://github.com/tunip0067/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
 |3| Indexing & Slicing ❤️ |[:,forward,backward,link +,repeat *,length len()](https://github.com/tunip0067/NLP_2023/blob/main/3_Indexing_Slicing.ipynb)|
 |4| Statements ❤️ |[if~:,for~:,try~:,while~:](https://github.com/tunip0067/NLP_2023/blob/main/4_1_IfStatement.ipynb)|
+|5| RegularExpression ❤️ |[if~:,for~:,try~:,while~:](https://github.com/tunip0067/NLP_2023/blob/main/5_RegularExpression_Revised.ipynb)|
+
